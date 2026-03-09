@@ -1,4 +1,4 @@
-#include <iostream>   // Baset Sowab 23891098 CS 373 Project 1
+#include <iostream>   // Baset Sowab 
 using namespace std;  
 
 
